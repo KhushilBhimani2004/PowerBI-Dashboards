@@ -1,15 +1,16 @@
 # PowerBI-Dashboards
 
 # Local Store Annual Datab Analysis- 
+
 ## A whole cloud based data engineering project.
-## Created using AZURE Cloud Services-
-### Azure Data Factory
-### Azure Synapse
-### Azure Databricks
-### Azure Datalake
-### Azure Active directory
-### Azure Keyvault
-### Power BI
+**Created using AZURE Cloud Services-
+Azure Data Factory
+Azure Synapse
+Azure Databricks
+Azure Datalake
+Azure Active directory
+Azure Keyvault
+Power BI**
 ![image](https://github.com/user-attachments/assets/a579cc0d-b5fc-4376-b96a-6d694dec3307)
 
 
