@@ -1,7 +1,7 @@
 # PowerBI-Dashboards
 
 # Local Store Annual Datab Analysis- 
-
+## (Initially Stored in MS-SQL then shifted to Cloud)
 ## A whole cloud based data engineering project.
 **Created using AZURE Cloud Services-
 Azure Data Factory,
